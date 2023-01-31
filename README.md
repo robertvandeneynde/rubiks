@@ -1,0 +1,2 @@
+- Various scripts and graphics for Rubik's Cube
+- Note that my diploma generation is [in another repository](https://github.com/robertvandeneynde/rubiks-compet-diplomas)
