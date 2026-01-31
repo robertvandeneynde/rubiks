@@ -1,1 +1,1 @@
-inkscape $* --export-type=pdf
+inkscape "$1" --export-type=pdf
